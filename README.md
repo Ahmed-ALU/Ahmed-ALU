@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p style="text-align: center;">Text_content</p>
 <!--
 **Ahmed-ALU/Ahmed-ALU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
