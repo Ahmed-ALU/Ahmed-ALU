@@ -1,6 +1,6 @@
-### Hi there 👋
-<p style="text-align: center;">Text_content</p>
-<!--
+## Hi👋My name is Ahmed Elshazly...
+
+**I'm a Computer Scince Student
 **Ahmed-ALU/Ahmed-ALU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
